@@ -1,0 +1,18 @@
+{
+  "Basic_Information": {
+    "name": "BOX",
+    "website": "https://www.bridge3.net/",
+    "description": "BOX 是 Bridge3 生态系统的原生应用与支付通证。作为公链、钱包、数字支付、流量分发、社交及 AI 矩阵的核心引擎，BOX 深度应用于社区治理与生态激励。通过极致的通缩模型设计与无限的落地应用场景，BOX 旨在构建去中心化未来的价值流通新标准。",
+    "explorer": "https://www.xonescan.com/token/0x2d3B35c7D701A6E50c6b354Ad649a796E3841A46",
+    "type": "ERC20",
+    "symbol": "BOX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2d3B35c7D701A6E50c6b354Ad649a796E3841A46"
+  },
+  "Social_Profiles": {
+    "twitter": "https://x.com/Bridge_web_3",
+    "telegram": "https://t.me/Bridge_web_3",
+    "youtube": "https://youtube.com/@bridge3official"
+  }
+}
